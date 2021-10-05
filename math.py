@@ -3,4 +3,4 @@ def add(x,y):
     return none
 #Bob need to implement this
 def mul(x,y):
-    return none
+    return x*y
